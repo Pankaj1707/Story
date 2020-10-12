@@ -1,2 +1,7 @@
 It was the best of times, it was the worse of times. 
 
+<<<<<<< HEAD
+=======
+
+sdkfjsdhjfshkjjk
+>>>>>>> develop
